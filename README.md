@@ -1,6 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+RISC V 8 BIT Microcontroller
+Create an 8-bit RISC V microcontroller for fabrication 
 
 - [Read the documentation for project](docs/info.md)
 
