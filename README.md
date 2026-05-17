@@ -1,7 +1,10 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 Project Title
+
 RISC V 8 BIT Microcontroller
+
 Short Project Description
+
 Create an 8-bit RISC V microcontroller for fabrication 
 
 - [Read the documentation for project](docs/info.md)
